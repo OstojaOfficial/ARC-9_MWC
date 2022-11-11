@@ -63,7 +63,7 @@ SWEP.BodyDamageMults = {
 }
 
 SWEP.Crosshair = true
-SWEP.CanBlindFire = false
+SWEP.CanBlindFire = true
 
 SWEP.TracerNum = 1 -- Tracer every X
 SWEP.TracerFinalMag = 0 -- The last X bullets in a magazine are all tracers
